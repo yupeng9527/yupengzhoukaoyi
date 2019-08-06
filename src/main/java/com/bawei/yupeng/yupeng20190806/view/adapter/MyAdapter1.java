@@ -12,7 +12,11 @@ import com.bawei.yupeng.yupeng20190806.model.bean.Bean;
 import com.bumptech.glide.Glide;
 
 import java.util.List;
-
+/*
+* 姓名：于鹏
+* 时间：10点57分
+* 功能：适配器
+* */
 public class MyAdapter1 extends BaseAdapter {
     private List<Bean> list;
     private Context context;
